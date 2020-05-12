@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content ="width=device-width, initial-scale=1">
+    <title>SQUARE</title>
+</head>
+<body>
+    <table>
+    <tr>
+    <td class="yellow">LOGO</td>
+    <td colspam="2" class="red">MENU</td>
+    </tr>
+    <tr>
+    <td class="pink">NEWS FEED</td>
+    <td class="yellow">LIST OF SOME THINGS</td>
+    <td rowspan="2" class="black">NAVIGATIOM BAR</td>
+    </tr>
+    <tr colspam="2" class="yellow">FOOTER</tr>
+    </table>
+</body>
+</html>
